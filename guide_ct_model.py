@@ -27,8 +27,8 @@ Standardization constants (training-cohort means and SDs):
   ALARM : mean =  1.9713, SD = 0.9565, median_impute =  1.9744
 
 Operating thresholds (locked in training):
-  Balanced (primary)          : p >= 0.456
-  Safety-prioritized (high-Sn): p >= 0.285
+  Balanced (primary)          : p >= 0.3925
+  Safety-prioritized (high-Sn): p >= 0.1482
 
 Predictor definitions
 ---------------------
@@ -79,8 +79,8 @@ _STANDARDIZATION = {
     "ALARM": ( 1.9713, 0.9565,  1.9744),
 }
 
-THRESHOLD_BALANCED          = 0.456   # primary operating point
-THRESHOLD_SAFETY_PRIORITIZED = 0.285  # high-sensitivity operating point
+THRESHOLD_BALANCED           = 0.3925  # primary operating point (Table S4)
+THRESHOLD_SAFETY_PRIORITIZED = 0.1482  # high-sensitivity operating point (Table S4)
 
 
 # =========================================================================== #
