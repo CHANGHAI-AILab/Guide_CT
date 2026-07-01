@@ -160,14 +160,6 @@ Standardization (training-cohort means ± SDs):
 
 ---
 
-## Citation
-
-If you use this code, please cite the manuscript (citation will be updated upon acceptance):
-
-```
-[Authors]. CT-Centered Risk Stratification for Guideline-Concerning Pancreatic
-Intraductal Papillary Mucinous Neoplasm. Radiology, [year].
-```
 
 ---
 
