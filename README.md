@@ -145,8 +145,8 @@ Standardization (training-cohort means ± SDs):
 
 | Threshold | Value | Use |
 |-----------|-------|-----|
-| Balanced (primary) | 0.456 | Main diagnostic performance table |
-| Safety-prioritized | 0.285 | High-sensitivity fixed-threshold analyses |
+| Balanced (primary) | 0.3925 | Main diagnostic performance table |
+| Safety-prioritized | 0.1482 | High-sensitivity fixed-threshold analyses |
 
 ---
 
